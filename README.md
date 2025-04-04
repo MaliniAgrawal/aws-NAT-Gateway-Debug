@@ -1,8 +1,5 @@
 # aws-NAT-Gateway-Debug
-Awesome! Here's the `.md` version of the NAT Gateway debug template — ready to drop into your Git repo:
-
----
-
+ 
 ```markdown
 # 🛠️ NAT Gateway Debug Checklist for AWS VPC
 
